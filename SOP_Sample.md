@@ -41,7 +41,9 @@ The instructions in this document will be followed in the situations below:
             <li>value <0</li>
         </ol>
 
-<img src="Users/roxanacazan/Desktop/SOPVisualization.png" alt="Figure 1." style="height: 100px; width:400px;"/>
+![Figure 1 Procedures and Outcomes, where all Outcomes "b" mean "fail](SOPVisualization.png)
+
+*Figure 1 Procedures and Outcomes, where all Outcomes "b" mean "fail"*  
 
 # Outcomes
 
