@@ -41,7 +41,7 @@ The instructions in this document will be followed in the situations below:
             <li>value <0</li>
         </ol>
 
-![image] <img src="Users/roxanacazan/Desktop/SOPVisualization.png"/> 
+<img src="Users/roxanacazan/Desktop/SOPVisualization.png" alt="Figure 1." style="height: 100px; width:400px;"/>
 
 # Outcomes
 
