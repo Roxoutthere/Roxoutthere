@@ -41,7 +41,7 @@ The instructions in this document will be followed in the situations below:
             <li>value <0</li>
         </ol>
 
-![Figure 1 Procedures and Outcomes, where all Outcomes "b" mean "fail](SOPVisualization.png)
+![Figure](SOPVisualization.png)
 
 *Figure 1 Procedures and Outcomes, where all Outcomes "b" mean "fail"*  
 
