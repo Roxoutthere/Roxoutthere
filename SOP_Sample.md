@@ -49,14 +49,14 @@ The instructions in this document will be followed in the situations below:
 
 1. If [Procedure 1](https://github.com/Roxoutthere/Roxoutthere/blob/main/SOP_Sample.md#procedures), then:
     <ol type="a">
-            <li>“a” means “pass”</li>
-            <li>“b” means “fail”</li>
+            <li>“A” means “pass”</li>
+            <li>“B” means “fail”</li>
         </ol>
 
 2. If [Procedure 2](https://github.com/Roxoutthere/Roxoutthere/blob/main/SOP_Sample.md#procedures) then:
     <ol type="a">
-            <li>“a” means “pass”</li>
-            <li>“b” means “fail”</li>
+            <li>“A” means “pass”</li>
+            <li>“B” means “fail”</li>
         </ol>
 
 # References
