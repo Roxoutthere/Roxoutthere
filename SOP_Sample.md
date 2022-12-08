@@ -5,7 +5,7 @@
 | Insert title | #              | MM/DD/YYYY     | #               |
 
 ---------
-There are five elements to this Standard Operating Procedure (SOP)
+There are five elements to this Standard Operating Procedure (SOP):
 
 1. [Purpose](https://github.com/Roxoutthere/Roxoutthere/blob/main/SOP_Sample.md#purpose)
 1. [Scope](https://github.com/Roxoutthere/Roxoutthere/blob/main/SOP_Sample.md#scope)
