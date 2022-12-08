@@ -21,7 +21,7 @@ This document serves to establish a process for granting access to enterprise as
 
 The instructions in this document will be followed in the situations below:
 
-<ol type="A">
+<ol type="a">
   <li>a new hire,</li>
   <li>a grant of rights, OR</li>
   <li>a user role change</li>
